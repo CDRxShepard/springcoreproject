@@ -11,5 +11,10 @@ public class Main {
         employee.setEmployeeId(5);
         employee.setEmployeeName("John Doe");
         employee.getEmployeeDetails();
+
+        Account account = applicationContext.getBean("account", Account.class);
+        account.setCustomerId(4);
+        account.setCustomerName("Amit");
+        account.getCustomerDetails();
     }
 }
