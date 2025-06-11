@@ -5,40 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ce7b717-ccc3-4e3a-974f-5b2c486b7f6f" name="Changes" comment="change one">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/bean/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/bean/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/bean/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/di/LaptopProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/di/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/di/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/di/SmartphoneProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/di/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/scopeone/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/annotation/scopeone/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/javabasedconfig/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/javabasedconfig/DateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/constructor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/constructor/Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/constructor/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/setter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/setter/Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/di/setter/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/constructorbean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/setterbean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/springcore/xml/bean/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/springcore/xml/bean/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/springcoreproject.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/springcoreproject.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Employee.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/Main.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springcore/xml/bean/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springcore/xml/bean/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +30,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="springcoreproject" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="springcoreproject" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="spring" type="f1a62948:ProjectNode" />
+                <item name="springcoreproject" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
@@ -100,12 +69,12 @@
     &quot;assignee&quot;: &quot;emexo&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/CDRxShepard/springcoreproject.git&quot;,
-    &quot;accountId&quot;: &quot;ac4bc74a-cd65-4dd1-82d5-7d9ee13a9e1d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/amitkushwaha2197/springcoreproject.git",
+    "accountId": "ac4bc74a-cd65-4dd1-82d5-7d9ee13a9e1d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
