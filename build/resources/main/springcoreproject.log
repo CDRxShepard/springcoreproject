@@ -208,3 +208,11 @@ Caused by: java.io.FileNotFoundException: https://www.springframework.org/schema
 2025-06-07 12:17:59,170 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'employee'
 2025-06-07 12:17:59,184 INFO c.s.x.i.Employee [main] Employee ID: 5
 2025-06-07 12:17:59,184 INFO c.s.x.i.Employee [main] Employee Name: John Doe
+2025-06-07 13:11:02,648 DEBUG o.s.c.a.ClassPathScanningCandidateComponentProvider [main] Identified candidate component class: file [/Applications/Projects/springcoreproject/build/classes/java/main/com/springcore/annotation/bean/Account.class]
+2025-06-07 13:11:02,655 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1e683a3e
+2025-06-07 13:11:02,663 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-06-07 13:11:02,679 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-06-07 13:11:02,680 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-06-07 13:11:02,680 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-06-07 13:11:02,683 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'account'
+2025-06-07 13:11:02,695 INFO c.s.a.b.Account [main] Account Number: 123456789, Account Name: John Doe
